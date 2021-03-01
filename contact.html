@@ -14,7 +14,37 @@
         </ul>
       </nav>
     </header>
-    <div>Some text here</div>
+    <h1>Contact Form</h1>
+    <form>
+      <div>
+        <p><label>First Name: <input type="text" name="first_name_field" placeholder="Enter your first name"></label></p>
+      </div>
+      <div>
+        <p><label>Last Name: <input type="text" name="last_name_field" placeholder="Enter your last name"></label></p>
+      </div>
+      <div>
+        <p><label>CWID: <input type="text" name="id_field" placeholder="Enter your CWID"></label></p>
+      </div>
+      <div>
+        <p><label>Email: <input type="email" name="email_field" placeholder="Enter your email address"></label></p>
+      </div>
+      <div>
+        <label>Select Topic: </label>
+        <select name="topic_field">
+          <option value="blank">Please make selection</option>
+          <option value="general">General question</option>          
+          <option value="safety">Report safety violation</option>
+          <option value="cleanliness">Report cleanliness issue</option>
+        </select>
+      </div>
+      <div>
+        <h4>Type your message: </h4>
+        <textarea cols="100" rows="10" name="comments_field" placeholder="Enter your comments here"></textarea>
+      </div>
+      <div>
+        <p><input type="submit" value="Send"></p>
+      </div>
+    </form>
     <footer>
       <address>
         <p>This site was created as a Semester Project for IPRO 497, Spring 2021</p>
