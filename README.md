@@ -9,3 +9,7 @@ Link to the site: https://ipro-497-spring-2021-team-g.github.io/App/
 * **Zhuohui Deng** - 
 * **Yifan Huang** -
 * **Yulia Thonippara** - Senior, ITM
+
+## Website Wireframe
+
+![Home page](wireframes/screen1.PNG "Home page")
