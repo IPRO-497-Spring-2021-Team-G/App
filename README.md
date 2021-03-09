@@ -14,12 +14,14 @@ Link to the site: https://ipro-497-spring-2021-team-g.github.io/App/
 
 ![Home page](wireframes/home-page.PNG "Home page")
 
-![Building view](wireframes/quick-find.PNG "Building view")
+![Quick Find](wireframes/quick-find.PNG "Quick Find")
 
 Quick Find: "randomly" assigns a seat once this option is clicked. We will always assign the seats in the buildings which are almost full (in our case, the red ones).
 
-![Home page](wireframes/map-view.PNG "Home page")
+![Map view](wireframes/map-view.PNG "Map view")
 
-![Home page](wireframes/building-view.PNG "Home page")
+![Building view](wireframes/building-view.PNG "Building view")
 
-![Home page](wireframes/room-view.PNG "Home page")
+![Room view](wireframes/room-view.PNG "Room view")
+
+![Reserve screen](wireframes/reserve-screen.PNG "Reserve screen")
