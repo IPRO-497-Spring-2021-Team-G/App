@@ -6,8 +6,8 @@ Link to the site: https://ipro-497-spring-2021-team-g.github.io/StudyRoomReserva
 
 ## Team G
 
-* **Zhuohui Deng** - 
-* **Yifan Huang** -
+* **Zhuohui Deng**     - Senior, CS
+* **Yifan Huang**      - Junior, CS    
 * **Yulia Thonippara** - Senior, ITM
 
 ## Website Wireframe
