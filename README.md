@@ -51,3 +51,5 @@ Quick Find: "randomly" assigns a seat once this option is clicked. We will alway
 ![Room view](wireframes/room-view.PNG "Room view")
 
 ![Reserve screen](wireframes/reserve-screen.PNG "Reserve screen")
+
+![Admin Dashboard](wireframes/admin-dashboard.PNG "Admin Dashboard")
