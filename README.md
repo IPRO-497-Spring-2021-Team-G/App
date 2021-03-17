@@ -21,11 +21,11 @@ COVID-19 imposed an extra burden on IIT students to find suitable individual or 
 
 ## Personas
 
-**Shruti** is an international student from India majoring in Information Technology and Management at Illinois Tech. Shruti is a senior and her last year in college is very demanding. A lot of Shruti’s assignments are group projects. As a project manager for one of her group assignments, Shruti is required to reserve a study space which the team can use for collaboration.
+**Shruti** is an international student from India majoring in Information Technology and Management at Illinois Tech. Shruti is a senior and her last year in college is very demanding. A lot of Shruti’s assignments are group projects. As a project manager for her IPRO 497 team, Shruti is required to reserve a weekly study space which the team can use for collaboration.
 
-**Andrew** Andrew is a commuter student majoring in Computer Science at Illinois Tech. He lives in Wheaton, IL , the suburb of Chicago, and commutes to campus three days a week. Andrew also works part-time while attending college. He is trying to manage his time efficiently and maximize the time when he is on campus to complete his homework assignments. Andrew would like to have study space reservation system that would show available spots within seconds.
+**Andrew** is a commuter student majoring in Computer Science at Illinois Tech. He lives in Wheaton, IL, the suburb of Chicago, and commutes to campus three days a week. Andrew also works part-time while attending college. He is trying maximize the time when he is on campus to complete his homework assignments. Andrew would benefit from the study space reservation system that would show available spots within seconds.
 
-**Christina** Christina is a facilities manager at Illinois Tech. In the wake of the COVID 19 pandemic, Christina is tasked with staying in complaince with the city of Chicago and the CDC social distancing guidelines. She would like to have a working application that would help her to add and remove to the available study space inventory, track reservation history, and peak reservation times.
+**Christina** is a facilities manager at Illinois Tech. In the wake of the COVID 19 pandemic, Christina wants to make sure that Illinois Tech is staying in compliance with the city of Chicago and the CDC social distancing guidelines. She would like to have an application that would help her to add and remove to the available study space inventory, track reservation history, and peak reservation times.
 
 ## Scenarios
 
